@@ -24,3 +24,4 @@ Give one KPI a "renewal AI agent" might automate tracking of. Contract end-date 
 What does "book of business" mean for a CSM? The full set of accounts they own
 Why does variable comp in CSM roles often weight retention over expansion (e.g., 75/25)? Retention is the base the business depends on; expansion is upside
 Name one tool other than Gainsight used for AI-native CS. Vitally, Catalyst, ChurnZero, or Velaris
+this is the final and want to test
