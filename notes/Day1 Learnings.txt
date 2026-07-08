@@ -1,0 +1,64 @@
+21 day AI Native US healthcare CSM plan : file:///Users/jeswikarushika/Downloads/AI_Native_Healthcare_CSM_Prep_Plan.html
+
+setup  GIT repository
+Setup claude along with visual studio and git integrated
+Read about gain sight customer success engine
+writing a one-page "AI-Native CSM Philosophy"?
+Able to create resume_matcher which helps to match your resume with the job description and shows the percentage of match.
+
+Keywords to deep-dive
+Agent Studio,MCP for CS, Staircase AI,  Horizon AI, Renewal AI Agent, NRR vs GRR
+
+what is agent studio: 
+Gainsight Agent Studio is a no-code workspace designed for teams to create and customize AI assistants 
+using natural language. The platform automates routine tasks such as drafting emails and summarizing meetings 
+while maintaining human oversight for review and approval
+
+what is MCP for CS: 
+In Customer Success (CS), MCP stands for Model Context Protocol. It is an open-source technical 
+standard (originally introduced by Anthropic) that acts like a "universal USB port" for AI.It allows third-party AI tools 
+like ChatGPT, Claude, and Gemini to securely plug directly into your CS software (like Gainsight or Staircase AI) and read 
+live customer data in real time, without needing custom engineering work.Why CS Teams Use MCPTraditionally, 
+customer data (health scores, timeline updates, emails, and support tickets) stays trapped inside 
+Customer Success Platforms (CSPs). If a Customer Success Manager wants to use ChatGPT to help write an email, 
+they have to copy and paste customer details back and forth.MCP removes this barrier. 
+It securely exposes Gainsight/CS data as "tools" that public AI models can look up dynamically.
+
+
+
+what is Staircase AI:
+Staircase AI (now part of Gainsight) is an AI platform that automatically analyzes communication data 
+like emails and meetings. It tracks relationship health and sentiment shifts to predict customer churn risks and 
+uncover hidden sales expansion opportunities.
+
+what is Horizon AI: 
+IT is the name used by two completely different software tools: an enterprise process finder and
+a customer management engine.Depending on the version you are asking about, 
+it means one of the following:
+The Process Consultant (UseHorizon): An AI tool that interviews thousands of corporate employees at scale to automatically
+find and fix internal company inefficiencies.
+The Customer Engine (Gainsight Horizon AI): A built-in AI assistant for customer success teams that writes follow-up emails,
+summarizes meetings, and flags client renewal risks
+
+what is Renewal AI Agent:
+A Renewal AI Agent is an autonomous software assistant designed to manage contract renewals and retention for a 
+company's customers.While it can assist customer success teams by surfacing risks and writing renewal briefs,
+ it is primarily used to completely take over the end-to-end renewal process for "long-tail" accounts—small, 
+ unmanaged, or semi-managed customer accounts that do not have a dedicated, human Customer Success Manager (CSM)
+
+
+what is NRR vs GRR?
+Net Retention Rate (NRR) and Gross Retention Rate (GRR) are the two most critical revenue metrics used by subscription-based 
+(SaaS) and Customer Success teams to measure account health and growth.The core difference is that NRR includes the revenue 
+gains from expansion (upsells and cross-sells), while GRR ignores expansion and focuses purely on how well you retain your 
+starting revenue.
+ Example:
+Imagine you start the year with ₹1,00,000 in revenue from a group of customers:Scenario: You lose ₹5,000 to churn,
+ ₹5,000 to downgrades, but successfully upsell other clients in that group for an extra ₹20,000.
+
+ NRR is : 100000+20000-5000+5000/100000 = 110%
+ GRR is : 100000-5000-5000/100000 = 90%
+ 
+ NRR measures your total existing revenue changes by including expansion, allowing the score to exceed 100% 
+ and show organic growth. GRR isolates revenue retention by ignoring expansion entirely, 
+ capping at 100% to strictly expose customer churn and contract downgrades.
